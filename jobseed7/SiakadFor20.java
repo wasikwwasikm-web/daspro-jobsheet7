@@ -1,6 +1,6 @@
 package jobseed7;
 import java.util.Scanner;
-public class SiakadForNoAbsen {
+public class SiakadFor20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double nilai, tertinggi = 100, terendah = 0;
